@@ -1,5 +1,6 @@
 # Databricks ETL Pipeline with Delta Lake, Spark, and Data Visualization
 #### By Daniel Medina
+Video demo: https://youtu.be/9_CPM-5IfFk
 ## Overview
 This project demonstrates a well-documented ETL (Extract, Transform, Load) pipeline implemented in Databricks notebooks. The pipeline extracts data from a source, transforms it using Spark SQL, loads it into a Delta Lake for storage, and visualizes the transformed data. The process is automated with a trigger to initiate the pipeline. Find the pipeline workflow below:
 ![ETL Pipeline Screenshot](etl-pipeline-ss.png)
